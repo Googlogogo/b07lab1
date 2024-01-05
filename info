@@ -1,2 +1,0 @@
-This is the first lab of CSCB07. In this lab, I got used to the basic functionality of Java and how to use git/github. I created a polynomial object that can add two polynomials,
-evaluate the value of the polynomial at certain input, and check if a given polynomial has a root at the given input.
