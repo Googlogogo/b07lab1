@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab3","l":"ComplexNumber"},{"p":"lab3","l":"Lab3Exception"},{"p":"lab3","l":"RationalNumber"},{"p":"lab3","l":"SpecialNumber"}];updateSearchResults();
